@@ -35,5 +35,10 @@
   },
   "dependencies": {
     "sinon": "^7.3.2"
+  },
+  "prettier": {
+    "semi": false,
+    "tabWidth": 4,
+    "singleQuote": true
   }
 }
